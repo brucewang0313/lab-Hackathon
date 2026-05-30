@@ -38,25 +38,28 @@
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new Point(79, 69);
+            label1.Location = new Point(50, 45);
+            label1.Margin = new Padding(2, 0, 2, 0);
             label1.Name = "label1";
-            label1.Size = new Size(100, 23);
+            label1.Size = new Size(67, 15);
             label1.TabIndex = 0;
             label1.Text = "請選擇生日";
             // 
             // dateTimePicker1
             // 
-            dateTimePicker1.Location = new Point(79, 146);
+            dateTimePicker1.Location = new Point(50, 95);
+            dateTimePicker1.Margin = new Padding(2, 2, 2, 2);
             dateTimePicker1.Name = "dateTimePicker1";
-            dateTimePicker1.Size = new Size(300, 30);
+            dateTimePicker1.Size = new Size(192, 23);
             dateTimePicker1.TabIndex = 1;
             // 
             // button1
             // 
             button1.BackColor = SystemColors.AppWorkspace;
-            button1.Location = new Point(114, 216);
+            button1.Location = new Point(73, 141);
+            button1.Margin = new Padding(2, 2, 2, 2);
             button1.Name = "button1";
-            button1.Size = new Size(223, 116);
+            button1.Size = new Size(142, 76);
             button1.TabIndex = 2;
             button1.Text = "分析結果";
             button1.UseVisualStyleBackColor = false;
@@ -65,31 +68,34 @@
             // label2
             // 
             label2.AutoSize = true;
-            label2.Location = new Point(484, 69);
+            label2.Location = new Point(308, 45);
+            label2.Margin = new Padding(2, 0, 2, 0);
             label2.Name = "label2";
-            label2.Size = new Size(64, 23);
+            label2.Size = new Size(43, 15);
             label2.TabIndex = 3;
             label2.Text = "關於你";
             // 
             // label3
             // 
             label3.AutoSize = true;
-            label3.Location = new Point(484, 146);
+            label3.Location = new Point(308, 95);
+            label3.Margin = new Padding(2, 0, 2, 0);
             label3.Name = "label3";
-            label3.Size = new Size(46, 23);
+            label3.Size = new Size(31, 15);
             label3.TabIndex = 4;
             label3.Text = "說明";
             // 
             // Form1
             // 
-            AutoScaleDimensions = new SizeF(11F, 23F);
+            AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(746, 293);
             Controls.Add(label3);
             Controls.Add(label2);
             Controls.Add(button1);
             Controls.Add(dateTimePicker1);
             Controls.Add(label1);
+            Margin = new Padding(2, 2, 2, 2);
             Name = "Form1";
             Text = "Form1";
             ResumeLayout(false);
