@@ -1,0 +1,15 @@
+D:\桌面\C#\lab-Hackathon\06\bin\Debug\net10.0\06.exe
+D:\桌面\C#\lab-Hackathon\06\bin\Debug\net10.0\06.deps.json
+D:\桌面\C#\lab-Hackathon\06\bin\Debug\net10.0\06.runtimeconfig.json
+D:\桌面\C#\lab-Hackathon\06\bin\Debug\net10.0\06.dll
+D:\桌面\C#\lab-Hackathon\06\bin\Debug\net10.0\06.pdb
+D:\桌面\C#\lab-Hackathon\06\obj\Debug\net10.0\06.GeneratedMSBuildEditorConfig.editorconfig
+D:\桌面\C#\lab-Hackathon\06\obj\Debug\net10.0\06.AssemblyInfoInputs.cache
+D:\桌面\C#\lab-Hackathon\06\obj\Debug\net10.0\06.AssemblyInfo.cs
+D:\桌面\C#\lab-Hackathon\06\obj\Debug\net10.0\06.csproj.CoreCompileInputs.cache
+D:\桌面\C#\lab-Hackathon\06\obj\Debug\net10.0\06.sourcelink.json
+D:\桌面\C#\lab-Hackathon\06\obj\Debug\net10.0\06.dll
+D:\桌面\C#\lab-Hackathon\06\obj\Debug\net10.0\refint\06.dll
+D:\桌面\C#\lab-Hackathon\06\obj\Debug\net10.0\06.pdb
+D:\桌面\C#\lab-Hackathon\06\obj\Debug\net10.0\06.genruntimeconfig.cache
+D:\桌面\C#\lab-Hackathon\06\obj\Debug\net10.0\ref\06.dll
